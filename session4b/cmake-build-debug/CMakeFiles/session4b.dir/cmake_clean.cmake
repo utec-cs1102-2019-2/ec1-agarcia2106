@@ -3,7 +3,7 @@ file(REMOVE_RECURSE
   "session4b.pdb"
   "session4b.exe"
   "session4b.exe.manifest"
-  "libsession4b.dll.a"
+  "session4b.lib"
 )
 
 # Per-language clean rules from dependency scanning.
