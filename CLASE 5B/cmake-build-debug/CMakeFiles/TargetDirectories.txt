@@ -1,0 +1,6 @@
+D:/POO/ CLASE 5B/cmake-build-debug/CMakeFiles/_CLASE_5B.dir
+D:/POO/ CLASE 5B/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/POO/ CLASE 5B/cmake-build-debug/CMakeFiles/_CLASE_5B_e1.dir
+D:/POO/ CLASE 5B/cmake-build-debug/CMakeFiles/_CLASE_5B_e2.dir
+D:/POO/ CLASE 5B/cmake-build-debug/CMakeFiles/_CLASE_5B_e3.dir
+D:/POO/ CLASE 5B/cmake-build-debug/CMakeFiles/edit_cache.dir
