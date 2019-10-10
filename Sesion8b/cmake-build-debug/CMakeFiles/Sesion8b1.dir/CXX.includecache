@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alvaro.garcia.a/Sesion8b/ejercicio1.cpp
+iostream
+-
+vector
+-
+ctime
+-
+cstdlib
+-
+
