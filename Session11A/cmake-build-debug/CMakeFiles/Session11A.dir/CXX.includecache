@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alvaro.garcia.a/Desktop/Alvaro/ec1-agarcia2106/Session11A/Bloque.h
+
+C:/Users/alvaro.garcia.a/Desktop/Alvaro/ec1-agarcia2106/Session11A/Tablero.h
+vector
+-
+iostream
+-
+iostream
+-
+vector
+-
+Bloque.h
+C:/Users/alvaro.garcia.a/Desktop/Alvaro/ec1-agarcia2106/Session11A/Bloque.h
+
+C:/Users/alvaro.garcia.a/Desktop/Alvaro/ec1-agarcia2106/Session11A/main.cpp
+iostream
+-
+Tablero.h
+C:/Users/alvaro.garcia.a/Desktop/Alvaro/ec1-agarcia2106/Session11A/Tablero.h
+
